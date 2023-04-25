@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sandhya-Thakur
-- 👀 I’m interested in Solidity, smartcontract-development.
-- 🌱 I’m currently learning solidity and smartcontracts,and full stack blockchain Development
-- 💞️ I’m looking to collaborate on dApp building
+- 👀 I’m interested in Javascript,Solidity, and smartcontract-development.
+- 🌱 I’m currently buidling a AI-enabled and blockchain-hosted app to understand children's learning preferences.
+- 💞️ I’m looking to collaborate on dApp building and AI developemnt. 
 - 📫 How to reach me at thaku.sandhya@gmail.com
 
 <!---
