@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **Solidity Auditing, Playing with openai api**
 
-- 👯 I’m looking to collaborate on [Learn-Javascript-With-AI-and-Games](https://github.com/Sandhya-Thakur/Learn-Javascript-With-AI-and-Games)
-
-- 🤝 I’m looking for help with [Web3-femme](https://github.com/Sandhya-Thakur/Web3-femme)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sandhya-Thakur](https://github.com/Sandhya-Thakur)
 
 - 💬 Ask me about **Blockchain , Openai**
