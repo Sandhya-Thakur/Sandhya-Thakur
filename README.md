@@ -1,16 +1,25 @@
 <h1 align="center">Hi 👋, I'm Sandhya Thakur</h1>
-<h3 align="center">Full Stack Developer | Dubai, UAE</h3>
-
+<h3 align="center">Co-founder & Chief AI/ML Engineer | Riyadh, KSA</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandhya-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 Currently learning **Solidity Auditing, Exploring OpenAI API**
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/Sandhya-Thakur)
-- 💬 Interested in **Blockchain** and **OpenAI**
+🚀 **Co-founder at CognoZen.ai** - Building AI-powered adaptive learning platforms with real-time analytics
+
+🤖 **AI/ML Expertise**: Generative AI, LLMs, RAG systems, distributed training optimization
+
+🔧 **Tech Stack**: Python, FastAPI, LangChain, Transformers, PyTorch, TensorFlow, AWS/GCP
+
+📊 **Performance Focus**: Achieved 14.7% speedup with distributed ML training architectures
+
+📚 **Published Researcher**: Zero-knowledge proofs, blockchain-based educational games
+
+- 🌱 Currently exploring **Advanced LLM Fine-tuning, Multimodal AI, and Cloud-Native ML Architectures**
+- 👨‍💻 Check out my AI/ML projects on [GitHub](https://github.com/Sandhya-Thakur)
+- 💬 Ask me about **Generative AI, LLMs, RAG Systems, and Distributed Training**
 - 📫 Reach me at: thaku.sandhya@gmail.com
 - 📄 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/sandhya-thakur/)
-- ⚡ Fun fact: I'm a full-time Traveler
+- ⚡ Fun fact: I'm passionate about building AI solutions that drive real-world impact
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +36,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
-
