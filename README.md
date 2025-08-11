@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandhya Thakur</h1>
-<h3 align="center">Co-founder & Chief AI/ML Engineer | Riyadh, KSA</h3>
+<h3 align="center">Co-founder & AI/ML Engineer | Riyadh, KSA</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandhya-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
